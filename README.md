@@ -1,5 +1,4 @@
 # website
 
 Adding some text
-
-And more in a new branch
+Updates made on master on Github before rebase
